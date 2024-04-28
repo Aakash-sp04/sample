@@ -1,11 +1,2 @@
 hello this is f1.txt
-<<<<<<< HEAD
-<<<<<<< HEAD
-added job role = se intern
-added location = ahmedabad
-=======
-
->>>>>>> parent of 692753c (add role)
-=======
-
->>>>>>> parent of 692753c (add role)
+company name rapidops
